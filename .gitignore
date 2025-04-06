@@ -1,0 +1,39 @@
+# Ignore model files by extension (anywhere in the project)
+*.h5
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.sav
+*.onnx
+*.tflite
+*.pb
+*.jpg
+*.zip
+
+# Ignore entire models folder
+Project_transformers/models/
+
+# Ignore entire dataset folder
+Project_transformers/dataset/
+Project_CNN/dataset/
+
+# Common Python project ignores
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
