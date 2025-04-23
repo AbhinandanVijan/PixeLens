@@ -14,6 +14,8 @@
 # Ignore entire models folder
 Project_transformers/models/
 
+Project_transformers/temp/
+
 # Ignore entire dataset folder
 Project_transformers/dataset/
 Project_CNN/dataset/
