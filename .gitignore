@@ -1,8 +1,8 @@
 # Ignore model files by extension (anywhere in the project)
-*.h5
-*.pt
-*.pth
-*.pkl
+# *.h5
+# *.pt
+# *.pth
+# *.pkl
 *.joblib
 *.sav
 *.onnx
